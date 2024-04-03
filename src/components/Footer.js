@@ -1,10 +1,10 @@
-
+import './Footer.css';
 
 export const Footer = () => {
   return (
-    <div>
-      Footer
-    </div>
+   <footer className='footer'>
+    <p>© 2021</p>
+   </footer>
   )
 }
 
